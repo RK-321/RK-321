@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋 I'm Ryuhei Kawamura</h1>
 <h3 align="center">A passionate frontend developer originally from Japan</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rk-321" alt="rk-321" /></a> </p>
+<p>I am a junior Web Developer, living in Berlin, Germnay</p>
+
+- 🌱 I’m currently working to improve my skills on Ruby, Ruby on Rails, CSS and JavaScript.
 
 - 👨‍💻 All of my projects are available at [https://troopl.com/rk-321](https://troopl.com/rk-321)
 
