@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋 I'm Ryuhei Kawamura</h1>
-<h3 align="center">A passionate frontend developer originally from Japan</h3>
+<h3 align="center">A passionate frontend developer originally from 🇯🇵</h3>
 
-<p>I am a junior Web Developer, living in Berlin, Germnay</p>
+
+<p>I am a junior Web Developer, living in Berlin 🇩🇪</p>
 
 - 🌱 I’m currently working to improve my skills on Ruby, Ruby on Rails, CSS and JavaScript.
 
