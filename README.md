@@ -1,4 +1,4 @@
-<img src="https://giphy.com/embed/l41lSxwF86GaxkLiU" width="480" height="270" frameBorder="0" class="giphy-embed" alt="Hi there!">
+[<img src="https://raw.githubusercontent.com/RK-321/RK-321/master/intro.gif" alt="👋 Hi there! I'm Ryuhei" title="👋 Hi there! I'm Ryuhei"/>](https://raymond.li/)
 
 <h1 align="center">Hi 👋, I'm Ryuhei Kawamura</h1>
 <h3 align="center">A passionate frontend developer originally from Japan</h3>
